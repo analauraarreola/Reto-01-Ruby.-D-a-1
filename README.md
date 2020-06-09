@@ -1,2 +1,2 @@
-# Reto-01-Ruby.-Day-1
+# reto-01-ruby-dia-01
 This is my repository to add my Ruby exercises
